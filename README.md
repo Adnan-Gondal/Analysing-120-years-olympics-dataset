@@ -1,5 +1,5 @@
 # Analysing-120-years-olympics-dataset
-## View SQL Notebook Here: https://modeanalytics.com/gondal/reports/f0d4d38d9ed4
+## <a href="https://modeanalytics.com/gondal/reports/f0d4d38d9ed4" target="_blank">Mode Analytics SQL Queries(Click Here)</a>
 ## Introduction
 I have conducted an in-depth analysis using a comprehensive dataset covering the last 120 years of Olympic history. This dataset, obtained from this [link](https://www.dropbox.com/sh/0wqw8fmiwrzr8ef/AABQijjQM522INXX1FCdamzma?dl=0), encompasses a wide range of information related to participants, events, winners, and more. While this dataset has the potential to benefit individuals from various fields and interests, my focus has been to extract intriguing trivia and valuable insights into the evolving trends of Olympic victories.
 
